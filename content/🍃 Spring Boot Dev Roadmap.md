@@ -23,7 +23,7 @@ tags:
 - Deploy Clustered Topologies via Kubernetes (Minikube)
 
 ---
-## 🎯 The 3-Month Engineering Roadmap
+## 🎯 The 3-Month Software Engineering Roadmap
 
 ### 📦 Month 1: Advanced Persistence, Threading & High Availability
 * **Database Integrity & Transaction Boundaries**
