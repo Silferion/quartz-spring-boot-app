@@ -6,34 +6,46 @@
       <description>Last 10 notes on Dev Notes</description>
       <generator>Quartz -- quartz.jzhao.xyz</generator>
       <item>
+    <title>5. Asynchronous Multi-Threading</title>
+    <link>https://quartz.jzhao.xyz/5.-Asynchronous-Multi-Threading</link>
+    <guid>https://quartz.jzhao.xyz/5.-Asynchronous-Multi-Threading</guid>
+    <description><![CDATA[ A deep-dive map of non-blocking execution pipelines and concurrency isolation. ]]></description>
+    <pubDate>Sun, 17 May 2026 17:21:23 GMT</pubDate>
+  </item><item>
+    <title>The Request Execution Pipeline</title>
+    <link>https://quartz.jzhao.xyz/The-Request-Execution-Pipeline</link>
+    <guid>https://quartz.jzhao.xyz/The-Request-Execution-Pipeline</guid>
+    <description><![CDATA[ A deep-dive map of the end-to-end journey of an HTTP request. ]]></description>
+    <pubDate>Sun, 17 May 2026 17:16:27 GMT</pubDate>
+  </item><item>
     <title>Welcome Spring Boot Dev Notes</title>
     <link>https://quartz.jzhao.xyz/</link>
     <guid>https://quartz.jzhao.xyz/</guid>
     <description><![CDATA[ Welcome to Spring Boot digital garden! 🌱 This is a note compilation of study guides, practices, and backend architecture. ]]></description>
-    <pubDate>Sun, 17 May 2026 09:22:56 GMT</pubDate>
+    <pubDate>Sun, 17 May 2026 09:24:02 GMT</pubDate>
   </item><item>
     <title>1. Spring Boot Dev Roadmap</title>
     <link>https://quartz.jzhao.xyz/1.-Spring-Boot-Dev-Roadmap</link>
     <guid>https://quartz.jzhao.xyz/1.-Spring-Boot-Dev-Roadmap</guid>
-    <description><![CDATA[ Target Audience: Software Engineer 2 | Mid-Level Backend Mastery Core Domain: Distributed Systems, Advanced Spring Framework Architecture, and Infrastructure Scaling 🍃 Table of Contents #TopicMonth2Spring Boot IntroductionMonth 13Database Read ReplicaMonth 14Database IntegrityMonth 15Asynchronous M... ]]></description>
+    <description><![CDATA[ Target Audience: Software Engineer 2 | Mid-Level Backend Mastery Core Domain: Distributed Systems, Advanced Spring Framework Architecture, and Infrastructure Scaling 🍃 Table of Contents Spring Boot Introduction Database Read Replica Database Integrity Asynchronous Multi-Threading Database Load Bala... ]]></description>
     <pubDate>Sun, 17 May 2026 09:22:56 GMT</pubDate>
-  </item><item>
-    <title>4. Database Integrity</title>
-    <link>https://quartz.jzhao.xyz/4.-Database-Integrity</link>
-    <guid>https://quartz.jzhao.xyz/4.-Database-Integrity</guid>
-    <description><![CDATA[ Target Audience: Software Engineer 2 | Mid-Level Backend Mastery Core Domain: Distributed Systems, Advanced Spring Framework Architecture, and Infrastructure Scaling 🍃 Core Architectural Concepts &amp; Study Guide graph TD REQ([&quot;🌐 Incoming Request&quot;]) PROXY[&quot;🕵️ Spring AOP Proxy Wrap... ]]></description>
-    <pubDate>Sun, 17 May 2026 09:13:58 GMT</pubDate>
   </item><item>
     <title>2. Spring Boot Introduction</title>
     <link>https://quartz.jzhao.xyz/2.-Spring-Boot-Introduction</link>
     <guid>https://quartz.jzhao.xyz/2.-Spring-Boot-Introduction</guid>
-    <description><![CDATA[ Target Audience: Software Engineer 2 | Mid-Level Backend Mastery Core Domain: Distributed Systems, Advanced Spring Framework Architecture, and Infrastructure Scaling 🍃 Core Architectural Concepts &amp; Study Guide graph TD P1[🛠️ Phase 1: Bootstrapping] --&gt; P2[🔍 Phase 2: Component Scan] P2 --&g... ]]></description>
+    <description><![CDATA[ A deep-dive map of the end-to-end Spring Boot application lifecycle and core runtime realities. ]]></description>
     <pubDate>Sun, 17 May 2026 09:13:58 GMT</pubDate>
   </item><item>
     <title>3. Database Read Replica</title>
     <link>https://quartz.jzhao.xyz/3.-Database-Read-Replica</link>
     <guid>https://quartz.jzhao.xyz/3.-Database-Read-Replica</guid>
-    <description><![CDATA[ Target Audience: Software Engineer 2 | Mid-Level Backend Mastery Core Domain: Distributed Systems, Advanced Spring Framework Architecture, and Infrastructure Scaling 🍃 Core Architectural Concepts &amp; Study Guide graph TD APP[&quot;⚙️ Spring Boot Application&quot;] APP --&gt;|&quot;@Transactional ... ]]></description>
+    <description><![CDATA[ A deep-dive map of database horizontal scaling. ]]></description>
+    <pubDate>Sun, 17 May 2026 09:13:58 GMT</pubDate>
+  </item><item>
+    <title>4. Database Integrity</title>
+    <link>https://quartz.jzhao.xyz/4.-Database-Integrity</link>
+    <guid>https://quartz.jzhao.xyz/4.-Database-Integrity</guid>
+    <description><![CDATA[ A deep-dive map of data consistency, proxy mechanics, and application safety. ]]></description>
     <pubDate>Sun, 17 May 2026 09:13:58 GMT</pubDate>
   </item>
     </channel>
