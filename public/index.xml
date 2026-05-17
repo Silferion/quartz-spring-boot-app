@@ -10,7 +10,13 @@
     <link>https://quartz.jzhao.xyz/</link>
     <guid>https://quartz.jzhao.xyz/</guid>
     <description><![CDATA[ Welcome to Spring Boot digital garden! 🌱 This is a note compilation of study guides, practices, and backend architecture. ]]></description>
-    <pubDate>Sun, 17 May 2026 09:13:58 GMT</pubDate>
+    <pubDate>Sun, 17 May 2026 09:22:56 GMT</pubDate>
+  </item><item>
+    <title>1. Spring Boot Dev Roadmap</title>
+    <link>https://quartz.jzhao.xyz/1.-Spring-Boot-Dev-Roadmap</link>
+    <guid>https://quartz.jzhao.xyz/1.-Spring-Boot-Dev-Roadmap</guid>
+    <description><![CDATA[ Target Audience: Software Engineer 2 | Mid-Level Backend Mastery Core Domain: Distributed Systems, Advanced Spring Framework Architecture, and Infrastructure Scaling 🍃 Table of Contents #TopicMonth2Spring Boot IntroductionMonth 13Database Read ReplicaMonth 14Database IntegrityMonth 15Asynchronous M... ]]></description>
+    <pubDate>Sun, 17 May 2026 09:22:56 GMT</pubDate>
   </item><item>
     <title>4. Database Integrity</title>
     <link>https://quartz.jzhao.xyz/4.-Database-Integrity</link>
@@ -28,12 +34,6 @@
     <link>https://quartz.jzhao.xyz/3.-Database-Read-Replica</link>
     <guid>https://quartz.jzhao.xyz/3.-Database-Read-Replica</guid>
     <description><![CDATA[ Target Audience: Software Engineer 2 | Mid-Level Backend Mastery Core Domain: Distributed Systems, Advanced Spring Framework Architecture, and Infrastructure Scaling 🍃 Core Architectural Concepts &amp; Study Guide graph TD APP[&quot;⚙️ Spring Boot Application&quot;] APP --&gt;|&quot;@Transactional ... ]]></description>
-    <pubDate>Sun, 17 May 2026 09:13:58 GMT</pubDate>
-  </item><item>
-    <title>1. Spring Boot Dev Roadmap</title>
-    <link>https://quartz.jzhao.xyz/1.-Spring-Boot-Dev-Roadmap</link>
-    <guid>https://quartz.jzhao.xyz/1.-Spring-Boot-Dev-Roadmap</guid>
-    <description><![CDATA[ Target Audience: Software Engineer 2 | Mid-Level Backend Mastery Core Domain: Distributed Systems, Advanced Spring Framework Architecture, and Infrastructure Scaling 🍃 Table of Contents #TopicMonth2Spring Boot IntroductionMonth 13Database Read ReplicaMonth 14Database IntegrityMonth 15Asynchronous M... ]]></description>
     <pubDate>Sun, 17 May 2026 09:13:58 GMT</pubDate>
   </item>
     </channel>

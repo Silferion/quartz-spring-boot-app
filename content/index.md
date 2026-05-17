@@ -13,7 +13,7 @@ This is a note compilation of study guides, practices, and backend architecture.
 
 Dive straight into latest notes:
 
-* [[1. Spring Boot Dev Roadmap ]]
+* [[1. Spring Boot Dev Roadmap\| Spring Boot Dev Roadmap ]]
 * [[2. Spring Boot Introduction\| Spring Boot Introduction ]]
 * [[3. Database Read Replica\| Database Read Replica ]]
 * [[4. Database Integrity\| Database Integrity ]]
