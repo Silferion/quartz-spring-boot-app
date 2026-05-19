@@ -32,8 +32,8 @@ Dive straight into latest notes:
 * #Threading
 * #Architecture
 * #RequestPipeline
-* HAProxy
-* Patroni
+* #HAProxy
+* #Patroni
 
 ---
 *Generated using [Quartz](https://quartz.jzhao.xyz).*
