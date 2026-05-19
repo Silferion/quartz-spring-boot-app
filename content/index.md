@@ -18,6 +18,7 @@ Dive straight into latest notes:
 * [[3. Database Read Replica\| Database Read Replica ]]
 * [[4. Database Integrity\| Database Integrity ]]
 * [[5. Asynchronous Multi-Threading\| Asynchronous Multi-Threading ]]
+* [[6. Database Load Balancing\| Database Load Balancing (HAProxy)]]
 
 ### 🛠️ Tech Stack & Topics
 * #SpringBoot 
@@ -31,6 +32,8 @@ Dive straight into latest notes:
 * #Threading
 * #Architecture
 * #RequestPipeline
+* HAProxy
+* Patroni
 
 ---
 *Generated using [Quartz](https://quartz.jzhao.xyz).*
